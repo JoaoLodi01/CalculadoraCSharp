@@ -1,0 +1,10 @@
+C:\Users\João\source\repos\CursoCSharp\CalculadoraC#\bin\Debug\CalculadoraC#.exe.config
+C:\Users\João\source\repos\CursoCSharp\CalculadoraC#\bin\Debug\CalculadoraC#.exe
+C:\Users\João\source\repos\CursoCSharp\CalculadoraC#\bin\Debug\CalculadoraC#.pdb
+C:\Users\João\source\repos\CursoCSharp\CalculadoraC#\obj\Debug\CalculadoraC#.csproj.AssemblyReference.cache
+C:\Users\João\source\repos\CursoCSharp\CalculadoraC#\obj\Debug\CalculadoraC_.Form1.resources
+C:\Users\João\source\repos\CursoCSharp\CalculadoraC#\obj\Debug\CalculadoraC_.Properties.Resources.resources
+C:\Users\João\source\repos\CursoCSharp\CalculadoraC#\obj\Debug\CalculadoraC#.csproj.GenerateResource.cache
+C:\Users\João\source\repos\CursoCSharp\CalculadoraC#\obj\Debug\CalculadoraC#.csproj.CoreCompileInputs.cache
+C:\Users\João\source\repos\CursoCSharp\CalculadoraC#\obj\Debug\CalculadoraC#.exe
+C:\Users\João\source\repos\CursoCSharp\CalculadoraC#\obj\Debug\CalculadoraC#.pdb
